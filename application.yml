@@ -21,4 +21,4 @@ management:
   endpoints:
     jmx:
       exposure:
-        include: "health,info"
+        include: "*"
